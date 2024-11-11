@@ -1,6 +1,4 @@
-                             	         *Group 69*
-                            Adam Miles     and   Dominic Reynolds
-                          stu# 101266150    |     stu# 101274879
+                             	         Ghost Hunter Simulation
 
 
 The purpose of this program is to run a multi-threaded simulation that is to create a map of rooms,
@@ -40,10 +38,3 @@ then logging their action to the screen so you can see exactly what is happening
 complete, it will print out if the hunters successfully determined the ghost while printing the evidence 
 they found to solidify this claim, or the hunters may lose by leaving out of fear or boredome causing 
 the ghost to win.
-
-
-
-BONUS MARKS IMPLEMENTATIONS:
-● Allow the user to specify both name and device of hunters at the beginning.
-● Use print formatting to make the simulation data clear and easy to read using consistent fixed-width
-columns
